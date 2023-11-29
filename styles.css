@@ -1,0 +1,38 @@
+
+h1 {
+    color: wheat;
+    text-align: center;
+    background-color: brown; 
+}
+h2 {
+   color: darkred;
+    text-align: center;
+    background-color: wheat;
+    font-size: xx-large;
+}
+h3 {
+    color: crimson;
+    font-size: x-large;
+}
+body {
+    background-color: black;
+}
+p {
+    color: grey;
+    font-size: larger;
+}
+ul {
+    color: antiquewhite;
+    font-size: 18px;
+}
+footer {
+    text-align: center;
+}
+#texto-footer {
+    font-size: small;
+}
+h4 {
+    font-size: 20px;
+    color: darkgreen;
+}
+
